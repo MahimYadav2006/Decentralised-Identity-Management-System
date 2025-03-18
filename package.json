@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hyperledger/fabric-gateway": "^1.7.1",
+    "fabric-contract-api": "^2.5.8"
+  }
+}
